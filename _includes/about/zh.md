@@ -11,10 +11,15 @@
 
 ##### 本博客的文章主要有5类:
 
-1. 机器学习知识
-2. 语言学习知识
-3. 医学学习知识
-4. 算法学习知识
-5. 软件开发和极客知识
+1. 机器学习
+2. 语言知识
+3. 临床医学
+4. 算法竞赛
+5. 软件开发&极客知识
+
+---
+
+##### 我的账户: 
+[kaggle](https://www.zhihu.com/people/la-la-la-tong-yi), [zhihu])(https://www.zhihu.com/people/la-la-la-tong-yi), [stackoverflow](https://stackoverflow.com/users/10670319/user10670319), [qq](1178832862@qq.mail), [weibo](http://weibo.com/Leconade), [Github](https://github.LiDelight.com)
 
 记录一下自己的学习经验和历程, 也希望对未来学习知识的人有多少帮助.

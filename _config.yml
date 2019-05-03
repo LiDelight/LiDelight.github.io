@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: lidengdelight@gmail.com
 description: "关于程序与设计、机器学习 | 李登，Software Engineer | 这里是 @LiDelight李登 的个人博客，与你一起发现更大的世界。"
 keyword: "李登, LiDelight, 机器学习, 深度学习, Deep Learning, Meachine Learning, C++, Python, Clinical Medicine"
-url: "https://LiDelight.github.io"              # your host, for absolute URL
+url: "https://ldscu.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -106,10 +106,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "张文一",
+        href: "https://zwythu.com/"
     }
 ]

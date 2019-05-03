@@ -9,6 +9,7 @@ I am very interested in machine learning, clinical medicine, and algorithm analy
 My professional skills are C++, java, python programming; Android software development; data analysis
 
 -----
-My other accounts: kaggle, zhihu, stackoverflow, qq, weibo, github
+My other accounts: [kaggle](https://www.zhihu.com/people/la-la-la-tong-yi), [zhihu])(https://www.zhihu.com/people/la-la-la-tong-yi), [stackoverflow](https://stackoverflow.com/users/10670319/user10670319), [qq](1178832862@qq.mail), [weibo](http://weibo.com/Leconade), [Github](https://github.LiDelight.com)
+My mail: lidengdelight@gmail.com; lidengdelight@outlook.com
 
 
