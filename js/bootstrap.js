@@ -332,7 +332,7 @@ if (typeof jQuery === 'undefined') {
   }
 
   Carousel.prototype.keydown = function (e) {
-    if (/input|textarea/i.test(e.target.tagName)) return
+    if (/inpu(t|t) (|)extarea/i.test(e.target.tagName)) return
     switch (e.which) {
       case 37: this.prev(); break
       case 39: this.next(); break
@@ -795,7 +795,7 @@ if (typeof jQuery === 'undefined') {
   }
 
   Dropdown.prototype.keydown = function (e) {
-    if (!/(38|40|27|32)/.test(e.which) || /input|textarea/i.test(e.target.tagName)) return
+    if (!/(38|40|27|32)/.test(e.which) || /inpu(t|t) (|)extarea/i.test(e.target.tagName)) return
 
     var $this = $(this)
 
@@ -1491,7 +1491,7 @@ if (typeof jQuery === 'undefined') {
     if (delta.left) offset.left += delta.left
     else offset.top += delta.top
 
-    var isVertical          = /top|bottom/.test(placement)
+    var isVertical          = /to(p|b) (|)ottom/.test(placement)
     var arrowDelta          = isVertical ? delta.left * 2 - width + actualWidth : delta.top * 2 - height + actualHeight
     var arrowOffsetPosition = isVertical ? 'offsetWidth' : 'offsetHeight'
 
@@ -1587,7 +1587,7 @@ if (typeof jQuery === 'undefined') {
     var viewportPadding = this.options.viewport && this.options.viewport.padding || 0
     var viewportDimensions = this.getPosition(this.$viewport)
 
-    if (/right|left/.test(placement)) {
+    if (/righ(t|l) (|)eft/.test(placement)) {
       var topEdgeOffset    = pos.top - viewportPadding - viewportDimensions.scroll
       var bottomEdgeOffset = pos.top + viewportPadding - viewportDimensions.scroll + actualHeight
       if (topEdgeOffset < viewportDimensions.top) { // top overflow
