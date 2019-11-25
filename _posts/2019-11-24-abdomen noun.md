@@ -13,6 +13,7 @@ tags:                               #标签
 
 
 ---表面解剖---
+
 中文|English
 ----|---
 胸骨体|sternum body
@@ -114,11 +115,11 @@ tags:                               #标签
 ---腹前壁内侧观---
 中文|English
 ----|---
-膈
-肝镰状韧带
-腹横筋膜
-腹股沟三角
-睾丸血管
+膈|diphragm
+肝镰状韧带|falciform ligament
+腹横筋膜|transersalis fascia
+腹股沟三角|triangle of ingunial
+睾丸血管|testicular vessels
 
 ---腹前壁的动脉---
 中文|English
@@ -131,6 +132,8 @@ tags:                               #标签
 旋髂深动脉|deep circumflex iliac a.
 
 ---大网膜&脏器---
+中文|English
+----|---
 镰状韧带|falciform
 肝左叶|left lobe of liver
 肝右叶|right lobe of liver

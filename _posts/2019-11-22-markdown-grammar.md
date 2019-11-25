@@ -7,9 +7,9 @@ author:     LiDeng                     # 作者
 header-img: img/post-bg-alitrip.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - 技术
+    - technology
 ---
-##介绍
+## 介绍
  markdown 作为一种轻量级标记语言, 可以让写作者只关注文章内容而非样式和排版, 从而更好的进行创作. 现在很多博客, 或者技术类文档均采用的是markdown的形式进行编写, 除此之外, markdown在vscode编辑器环境下再搭配不同种类的插件, 从而可以pdf,ppt,html等各种内容的创作. 本文不对具体的语法进行重新解释和阐述, 具体可以参考[markdown中文文档](https://markdown-zh.readthedocs.io/en/latest/)和[Coding.net](https://coding.net/help/doc/project/markdown.html)的教程
  其主要特性有, 
  * 内联HTML(在markdown内插入HTML代码), 
