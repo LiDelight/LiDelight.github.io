@@ -7,7 +7,5 @@
 
 ---
 
-##### 联系方式: 
-[zhihu](https://www.zhihu.com/people/ldscu), [stackoverflow](https://stackoverflow.com/users/10670319/user10670319), [qq](1178832862@qq.mail), [weibo](http://weibo.com/Leconade), [Github](https://github.LiDelight.com)
-
-记录一下自己的学习经验和历程, 也希望对未来学习知识的人有多少帮助.
+##### 更多信息: 
+[zhihu](https://www.zhihu.com/people/ldscu), [stackoverflow](https://stackoverflow.com/users/10670319/user10670319), [weibo](http://weibo.com/Leconade), [Github](https://github.LiDelight.com)
