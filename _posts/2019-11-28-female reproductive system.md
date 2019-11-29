@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      Female reproductive system              # 标题 
-subtitle:   ovary, uterus & endocrine regulation          #副标题
+subtitle:   ovary, uterus, endocrine regulation & case          #副标题
 date:       2019-11-28              # 时间
 author:     LiDeng                     # 作者
 header-img: img/post-bg-alitrip.jpg    #这篇文章标题背景图片

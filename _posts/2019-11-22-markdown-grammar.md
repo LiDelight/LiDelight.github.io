@@ -2,7 +2,7 @@
 layout:     post                    # 使用的布局（不需要改）
 title:      Grammar of markdown               # 标题 
 subtitle:   some thoughts #副标题
-date:       2019-11-24              # 时间
+date:       2019-11-22              # 时间
 author:     LiDeng                     # 作者
 header-img: img/post-bg-alitrip.jpg    #这篇文章标题背景图片
 catalog: true                       # 是否归档

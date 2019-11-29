@@ -1,6 +1,6 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
-title:      abdomen anatomy               # 标题 
+title:      Abdomen anatomy               # 标题 
 subtitle:    related nouns          #副标题
 date:       2019-11-24              # 时间
 author:     LiDeng                     # 作者
