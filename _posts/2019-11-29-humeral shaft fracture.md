@@ -10,12 +10,12 @@ tags:                               #标签
     - anatomy
     - medicine
 ---
- ### What will happen if there is a humeral midshaft fracture?
+### What will happen if there is a humeral midshaft fracture?
    1. There are two cases: 
    - In closed fracture, radial injury is most commonly an incomplete neuropraxia rather than a complete laceration of the nerve. And radial injury occurs in nearly 18%.
    - In open fracture, the incidence of radial nerve laceration is much higher at 60%.
 
- ### The structure and function of radial nerve
+### The structure and function of radial nerve
    1. A brife introduction of radial nerve
    - origin: from plexus and has nerve roots from C5-T1
    - course: Exists **axillary fossa posterior** to axillary artery, passes posterior to humerus in **radial groove** with **profunda branchii artery** *between lateral and medial heads of triceps*; perforates **lateral intermuscular spetum**; enters **cubital fossa**. dividing into superficial and deep branch
@@ -30,7 +30,7 @@ tags:                               #标签
      - Radial nerve
 
 
- ### What happens?
+### What happens?
    - Kind of fracture:There are some fractures maybe in the humerus: surgical neck-->axillary nerve; radial groove--> radial nerve; medial epicondyle-->ulnar nerve; besides, median nerve in the medial of fossa maybe fracture too.![fracture](https://wx4.sinaimg.cn/mw690/006W8mGzgy1g9exmt49bxj30ab0ba776.jpg)
    - Sympose: The radial nerve is most likely to be damaged in humerus fractures that have a lateral displacement of the distal fracture segment, as the **nerve is tethered to the bone** and cannot withstand the forces applied to it as a result of the displacement. On physical exam, patients with a radial nerve injury may have **wrist drop** (loss or weakness of wrist extensors), loss or weakness of finger extension, and decreased or absent sensation to the posterior forearm, digits 1 to 3, and the radial half of the fourth digit. Up to 90% of patients with a closed humeral fracture with radial nerve injury will have a resolution of *neuropraxia* within three to four months following the injury.
 
