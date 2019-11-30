@@ -35,7 +35,9 @@ tags:                               #标签
    - Sympose: The radial nerve is most likely to be damaged in humerus fractures that have a lateral displacement of the distal fracture segment, as the **nerve is tethered to the bone** and cannot withstand the forces applied to it as a result of the displacement. On physical exam, patients with a radial nerve injury may have **wrist drop** (loss or weakness of wrist extensors), loss or weakness of finger extension, and decreased or absent sensation to the posterior forearm, digits 1 to 3, and the radial half of the fourth digit. Up to 90% of patients with a closed humeral fracture with radial nerve injury will have a resolution of *neuropraxia* within three to four months following the injury.
 
 
-参考文献:\
-[1]<https://emedicine.medscape.com/article/1239985-overview#a9>\
-[2]Moore K L, Agur A M R, Dalley A F, et al. Essential clinical anatomy[M]. Wolters Kluwer Health,, 2015.\
+参考文献:
+[1]<https://emedicine.medscape.com/article/1239985-overview#a9>
+
+[2]Moore K L, Agur A M R, Dalley A F, et al. Essential clinical anatomy[M]. Wolters Kluwer Health, 2015.
+
 [3]Netter F H, Colacino S. Atlas of human anatomy[M]. Ciba-Geigy Corporation, 1989.
